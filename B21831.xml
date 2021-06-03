@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An act for ministers and payment of tythes</title>
+            <title>Laws, etc.</title>
+            <author>England and Wales.</author>
+         </titleStmt>
+         <extent>Approx. 9KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B21831</idno><idno type="EEBO-CITATION">11230419</idno>
+  <idno type="VID">204931</idno>
+  <idno type="EEBO-PROQUEST">2248496745</idno>
+  
+            <idno type="STC">Wing E1048A</idno>
+            <idno type="OCLC">11230419</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B21831)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 204931)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1440:50)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An act for ministers and payment of tythes</title>
+                  <title>Laws, etc.</title>
+                  <author>England and Wales.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by John Streater and John Macock ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1659.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"Friday, March 16, 1659. Ordered by the Parliament, that this act be forthwith printed and published. Thomas St. Nicholas, Clerk of the Parliament."</note>
+                  <note>Reproduction of the original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="corporate_name">Church of England --  Benefices, Ecclesiastical --  Law and legislation.</term>
+               <term type="topical_term">Church and state --  England.</term>
+               <term type="geographic_name">Great Britain --  History --  Commonwealth and Protectorate, 1649-1660.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-02 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-03 </date>
+            <label>Anne Simpson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-03 </date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:204931:1"/>
+            <pb facs="tcp:204931:1"/>
+            <p> AN ACT FOR MINISTERS: And Payment of Tythes.</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license" subtype="order_to_print">
+                        <p>Friday, <hi>March</hi> 16. 1659.</p>
+                        <p>
+                           <hi>ORdered by the Parliament,</hi> That this Act be forthwith Printed and Published.</p>
+                        <p>THOMAS St. NICHOLAS, <hi>Clerk of the Parliament.</hi>
+                        </p>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <figure>
+               <figDesc>coat of arms of the Commonwealth of England</figDesc>
+            </figure>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>John Streater,</hi> and <hi>John Macock,</hi> Printers to the Parliament, 1659.</p>
+            <pb facs="tcp:204931:2"/>
+         </div>
+      </front>
+      <body>
+         <div type="act">
+            <pb n="3" facs="tcp:204931:2"/>
+            <head>AN ACT FOR MINISTERS: And Payment of Tythes.</head>
+            <p>BE it Enacted by this present Parlia<g ref="char:EOLhyphen"/>ment, That every Person who hath been Settled in any Parsonage or Vic<g ref="char:EOLhyphen"/>caridge, Presentative or Donative, or Hospital within this Commonwealth hereto<g ref="char:EOLhyphen"/>fore Sequestred, and was in Possession there<g ref="char:EOLhyphen"/>of the fourteenth of <hi>March,</hi> One thousand six hundred fifty nine, the Sequestred or Ejected Minister being living at the time of such Set<g ref="char:EOLhyphen"/>tlement or Presentation, such and no other Person shall be, and is hereby Adjudged and Declared the perfect Incumbent to all In<g ref="char:EOLhyphen"/>tents and Purposes, and shall and may Have, Enjoy, Retain and Possess, Sue for, and Re<g ref="char:EOLhyphen"/>cover all Tythes and other Profits and Ad<g ref="char:EOLhyphen"/>vantages whatsoever, to such Parsonage, Vic<g ref="char:EOLhyphen"/>caridge or Donative, or Hospitall belonging, as if such Person or Persons had been legally In<g ref="char:EOLhyphen"/>stituted and Inducted, any Law, Statute, or Vse to the contrary in any wise notwithstand<g ref="char:EOLhyphen"/>ing.</p>
+            <p>And be it further Enacted by the Authority
+<pb n="4" facs="tcp:204931:3"/> aforesaid, That upon the Death, Deprivation, Resignation or Removal of the Minister so Settled and now Adjudged the Incumbent by Vertue of this Act, it shall be lawful for the Patron (being neither Delinquent nor Papist) to present to such Parsonage, Viccaridge, Pre<g ref="char:EOLhyphen"/>sentative or Donative, or Hospital, as if the Incumbent formerly Sequestred or Ejected were naturally dead.</p>
+            <p>Provided always, And be it further Enacted by the Authority aforesaid, That where the Sequestred or Ejected Minister is not seized of to his own use, or others in Trust, for him or his Wife, of the Reall Estate of thirty pounds <hi>per annum,</hi> or possessed of a Personal Estate of the value of five hundred pounds; The Iustices of Peace or any two of them, whereof one to be of the <hi>Quorum▪</hi> shall within their respective Counties, Cities and Places, make unto the Sequestred Minister during his life, Allow<g ref="char:EOLhyphen"/>ance out of the Profits of the said Parsonage or Viccaridge, not exceeding a fifth part of the Profits thereof. And the said Iustices, or any two of them, are hereby Impowred and Re<g ref="char:EOLhyphen"/>quired to Sequester for the Vse of (and cause to be paid over to) the said Sequestred Minister, the said Allowance, with such Arrears thereof (if any shall be) with such Costs and Dama<g ref="char:EOLhyphen"/>ges, as the said Iustices shall think fit, in case the Incumbent shall refuse to pay the same.</p>
+            <p>Provided alwayes, That where there hath been Agreement between the Parties, or De<g ref="char:EOLhyphen"/>termination by the Parliament, or by any Au<g ref="char:EOLhyphen"/>thority from them Derived, the payment of the said Arrears shall be accordingly.</p>
+            <pb facs="tcp:204931:3"/>
+            <pb facs="tcp:204931:4"/>
+            <pb n="5" facs="tcp:204931:4"/>
+            <p> Provided, That no Ejected or Sequestred Minister, shall have or receive any benefit, or advantage by vertue of this Act, that resides and remains in the Parish or place out of which he is Ejected, or Sequestred, Without the Con<g ref="char:EOLhyphen"/>sent of the present Incumbent during such Re<g ref="char:EOLhyphen"/>sidence, Any thing before in this Act, or any other matter or thing to the Contrary thereof notwithstanding. Provided alwayes, That nothing in this Act shall extend, to the Char<g ref="char:EOLhyphen"/>ging any person hereby made, and declared In<g ref="char:EOLhyphen"/>cumbent as aforesaid, with the Payment of First-fruits, untill the death of the Person Ejected, or Sequestred from any such Parso<g ref="char:EOLhyphen"/>nage, or Vicarage as aforesaid, at which time he shall be lyable to pay the same, and not be<g ref="char:EOLhyphen"/>fore.</p>
+            <p>Provided alwayes, That this Act, nor any thing herein contained, shall not extend to the settling or confirming any person or persons in any Parsonage, Vicarage, or Chappel with Care of Souls, by vertue of this Act, That is not Ordained Minister, and Preacher, of the Word of God.</p>
+            <p>Provided also, That Mr. <hi>William Wood<g ref="char:EOLhyphen"/>ward,</hi> who by Order of the Committee for Plundered Ministers bearing date the <hi>24th</hi> of <hi>June,</hi> 1649, was settled in the Se<g ref="char:EOLhyphen"/>questred Rectory of <hi>Riccards Castle,</hi> in the Counties of <hi>Hereford,</hi> and <hi>Salopp,</hi> be hereby declared and adjudged perfect Incumbent to all Intents and Purposes of the said Rectory of <hi>Riccards Castle,</hi> notwithstanding he were not in actual possession thereof, the Fourteenth day of <hi>March,</hi> 1659.</p>
+            <p>Provided also, And be it Enaeted, That no
+<pb n="6" facs="tcp:204931:5"/> person shall be Confirmed in any Sequestred Living, Or shall receive any publique mainte<g ref="char:EOLhyphen"/>nance thereby, whose fitnesse and Ability for the Ministry, shall not be examined and approved, according to the Act of Parliament, by the Commissioners therein mentioned for Appro<g ref="char:EOLhyphen"/>bation of Publique Preachers, within Six Moneths next ensuing.</p>
+            <p>Provided also, And it is Enacted, That eve<g ref="char:EOLhyphen"/>ry Patron and Patrons, his Heirs, Executors, Administrators, and Assigns, may from and after the avoidance of the Churches, Hospitals and Vicaridges, wherein such Incumbents are hereby settled by death of the said Incumbents or otherwise, Present unto, or Confer the said Churches, Hospitals, and Vicaridges respec<g ref="char:EOLhyphen"/>tively, in such manner, to all intents and pur<g ref="char:EOLhyphen"/>poses as he or they might have done, or should do, upon the avoidance of the said Churches, Hospitals, or Vicaridges respectively by the death of such sequestred Incumbent or Mini<g ref="char:EOLhyphen"/>ster.</p>
+            <p>And if any person or persons have just cause of Complaint of any undue Sequestration, against whom no determination hath been made, by any persons formerly authorized in that behalf, <hi>It is hereby Enacted,</hi> That any such person may repair to the Lords Commissioners of y<seg rend="sup">e</seg> Great Seal, and the Master of y<seg rend="sup">e</seg> Rolls for the time being, or any Two of them, &amp; make his Complaint to them, who, or any Two or more of them, have Authority to hear and Examine the same, and to send for persons and Witnesses as they see cause, and to Examine upon Oath or otherwise, And to give their Order therein, by referring to a Tryall at Law, or removing,
+<pb n="7" facs="tcp:204931:5"/> or settling the Incumbent, and putting any other in Possession as they see cause, who shall continue perfect Incumbent, upon such settle<g ref="char:EOLhyphen"/>ment, untill the Parliament take further Or<g ref="char:EOLhyphen"/>der therein.</p>
+            <p>Provided alwayes, And be it further Enact<g ref="char:EOLhyphen"/>ed, That if any Minister or Ministers, have been formerly Ejected or Sequestred, whose Conversations and Lives have been and are blameless, and they sound in Do time, shall be capable to be presented to any Living in the Church of <hi>England;</hi> Any Law of Ordinance made by this Parliament, or any Authority de<g ref="char:EOLhyphen"/>rived from the same, to the contrary, notwith<g ref="char:EOLhyphen"/>standing, so as such Minister do Officiate, ac<g ref="char:EOLhyphen"/>cording to the Directorie Established, and not otherwise.</p>
+            <p>Provided, And it is further Enacted, That any two Iustices of the Peace, dwelling in or near to the Parish, where cause of complaint shall arise, and not interressed, shall have pow<g ref="char:EOLhyphen"/>er, and are required, upon any complaint for detent on, or non-payment, of small or personall Tythes, or Duties by Law due to any Vicar or Parson in right of the Vicarage, or Parso<g ref="char:EOLhyphen"/>nage Farmors, or Impropriators or other per<g ref="char:EOLhyphen"/>son claiming the same, under him or them, to give such Remedy therein as any Iustice or Iustices of y<seg rend="sup">e</seg> Peace by any Law, Act, or Ordi<g ref="char:EOLhyphen"/>nance now in Force may do, in case of complaint for Tythes Prediall, and cause Execution of Sentence and Costs to be had, and that such appeal, and in such manner be allowed and had, as in case of such Sentence for Tythes predial; And that all Acts and Ordinances for the due payment of Tythes, be and are hereby Revi<g ref="char:EOLhyphen"/>ved
+<pb n="8" facs="tcp:204931:6"/> and Continued in Force. And that this Act shall continue untill the Parliament take further Order.</p>
+         </div>
+      </body>
+      <back>
+         <div type="order_to_print">
+            <opener>
+               <dateline>
+                  <date>Friday, <hi>March</hi> 16. 1659.</date>
+               </dateline>
+            </opener>
+            <p>
+               <hi>ORdered by the Parliament,</hi> That this Act be forthwith Printed and Published.</p>
+            <closer>
+               <signed>THOMAS St. NICHOLAS, <hi>Clerk of the Parliament.</hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="order_to_print">
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>John Streater,</hi> and <hi>John Macock,</hi> Printers to the Parliament. 1659.</p>
+            <pb facs="tcp:204931:6"/>
+         </div>
+      </back>
+   </text>
+</TEI>
